@@ -43,7 +43,7 @@ TODO: Add yourself as a content owner
 "/><br />
         <sub><b>Rod Trent
 </b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
+            <a href="https://github.com/rod-trent" title="talk">📢</a> 
     </td>
 </tr></table>
 
