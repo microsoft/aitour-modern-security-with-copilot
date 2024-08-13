@@ -41,7 +41,7 @@ TODO: Add yourself as a content owner
     <td align="center"><a href="http://learnanalytics.microsoft.com">
         <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
 "/><br />
-        <sub><b>INSERT NAME HERE
+        <sub><b>Rod Trent
 </b></sub></a><br />
             <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
     </td>
