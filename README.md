@@ -38,7 +38,7 @@ TODO: Add yourself as a content owner
 
 <table>
 <tr>
-    <td align="center"><a href="http://learnanalytics.microsoft.com">
+    <td align="center"><a href="https://github.com/rod-trent">
         <img src="https://github.com/rod-trent/Copilot-for-Security/blob/main/Images/Rod_Headshot_Smaller.jpg" width="100px;" alt="Rod Trent
 "/><br />
         <sub><b>Rod Trent
