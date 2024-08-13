@@ -1,7 +1,5 @@
 # BRK423 - Forging Modern Security with Copilot for Security
 
-This repo is intended as a template for Microsoft AI Tour repositories
-
 ## Session Desciption
 
 Discover how Copilot for Security modernizes security operations and defense intelligence through Generative AI and Microsoft’s Threat Intelligence. A fusion of innovation, vigilance, and adaptability where efficiency and excellence converge.
