@@ -6,7 +6,7 @@ To help prepare content for AI Tour, please use this template repository for org
 5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
 
 
-# [TODO: Insert Session Title]
+# BRK423 - Forging Modern Security with Copilot for Security
 
 This repo is intended as a template for Microsoft AI Tour repositories
 
