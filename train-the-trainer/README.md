@@ -43,12 +43,12 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
+0:00 - 3:00   | Copilot for Security Introduction – What it is
+3:00 - 8:00   | Copilot for Security - Why it exists
+8:00 - 13:00  | Copilot for Securiyt - How it works
+13:00 - 28:00 | Standalone Experience Demos 1 - 4
+28:00 - 38:00 | Embedded Experience Demos 5 - 6
+38:00 - 45:00 | Copilot for Security Extensibility Demo 7
 
 ## Deployment / Preparation
 
