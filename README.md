@@ -23,7 +23,12 @@ Discover how Copilot for Security modernizes security operations and defense int
 * Understand how organizations can leverage Copilot for Security to resolve security knowledge gaps.
 
 ## Technology Used
-TODO: Add a list of any technology or software used.
+
+* Copilot for Security
+* Microosft Defender Threat Intelligence
+* Microsoft Defender XDR
+* Microsoft Intune
+* KQL
 
 ## Additional Resources and Continued Learning
 TODO: If you would like to link the user to further learning, please enter that here.
