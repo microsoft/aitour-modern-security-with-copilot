@@ -59,9 +59,9 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 ## Demos
 
-For the demos, have the following open in a web browser:
+For the demos, have the following open in a web browser in different tabs:
 
-1. Copilot for Security: securitycopilot.microsoft.com
+1. Copilot for Security: https://securitycopilot.microsoft.com
 2. The demos page in this repo: https://github.com/microsoft/aitour-modern-security-with-copilot/tree/main/Demos
 3. Defender XDR Unified portal: https://security.microsoft.com/
 4. Intune: https://intune.microsoft.com/
