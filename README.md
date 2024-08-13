@@ -15,7 +15,12 @@ This repo is intended as a template for Microsoft AI Tour repositories
 Discover how Copilot for Security modernizes security operations and defense intelligence through Generative AI and Microsoft’s Threat Intelligence. A fusion of innovation, vigilance, and adaptability where efficiency and excellence converge.
 
 ## Learning Outcomes
-TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
+
+* Learn how Copilot for Security can help streamline security workflows and processes, making them more efficient and effective.
+* Discover how Copilot for Security can enhance security visibility and situational awareness, providing better insights into potential threats.
+* See how Copilot for Security can improve security decision making and response time, enabling quicker and more accurate responses to threats.
+* Learn how Copilot for Security can integrate with existing security tools and data sources, providing a seamless and comprehensive security solution.
+* Understand how organizations can leverage Copilot for Security to resolve security knowledge gaps.
 
 ## Technology Used
 TODO: Add a list of any technology or software used.
