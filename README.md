@@ -39,7 +39,7 @@ TODO: Add yourself as a content owner
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
+        <img src="https://github.com/rod-trent/Copilot-for-Security/blob/main/Images/Rod_Headshot_Smaller.jpg" width="100px;" alt="Rod Trent
 "/><br />
         <sub><b>Rod Trent
 </b></sub></a><br />
