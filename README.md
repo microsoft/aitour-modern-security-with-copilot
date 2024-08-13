@@ -24,7 +24,7 @@ Discover how Copilot for Security modernizes security operations and defense int
 
 ## Technology Used
 
-* Copilot for Security
+* Microsoft Copilot for Security
 * Microosft Defender Threat Intelligence
 * Microsoft Defender XDR
 * Microsoft Intune
