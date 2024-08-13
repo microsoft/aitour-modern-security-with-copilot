@@ -12,7 +12,7 @@ This repo is intended as a template for Microsoft AI Tour repositories
 
 ## Session Desciption
 
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+Discover how Copilot for Security modernizes security operations and defense intelligence through Generative AI and Microsoft’s Threat Intelligence. A fusion of innovation, vigilance, and adaptability where efficiency and excellence converge.
 
 ## Learning Outcomes
 TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
