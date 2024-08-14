@@ -15,7 +15,7 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](presentations.md) | Slides |
+| PowerPoint        | - [Presentation](Presentations.md) | Slides |
 | PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
 | Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
 | Demo 1             | - [Demo 1 - Using CfS TI for Hunting](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/Hunting.md) | Additional Demo Content | 
