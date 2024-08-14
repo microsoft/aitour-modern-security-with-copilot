@@ -25,8 +25,13 @@ code.
 | Demo 5             | - [Demo 5 - Defender – auto response](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Demo Prompt | 
 | Demo 6             | - [Demo 6 - Intune – assisted response](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Demo Prompt | 
 | Demo 7             | - [Demo 7 - Installing, Enabling, and Using plugins](https://github.com/microsoft/aitour-modern-security-with-copilot/tree/main/Demos/Plugins/IP-API) | Demo Prompt | 
-| Demo 1 Recording           | - [Data10 - Prequisites](https://youtu.be/GHa3jfpBbYo) | Recording of the Demo Live 1 | 
-| Demo Recordings           | - [Data10 - Demo](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4 ) | Recording of the Demo Live 2 | 
+| Demo 1 Recording           | - [CfS TI for Hunting](https://youtu.be/GHa3jfpBbYo) | Recording of the Demo Live 1 | 
+| Demo 2 Recording           | - [Dissecting Scripts](https://youtu.be/dLOZ_6uF-58) | Recording of the Demo Live 2 |  
+| Demo 3 Recording           | - [Generating KQL](https://youtu.be/9Ck7yOSO4BQ) | Recording of the Demo Live 3 |  
+| Demo 4 Recording           | - [External Sources](https://youtu.be/vyUmaoeVvnY) | Recording of the Demo Live 4 |  
+| Demo 5 Recording           | - [Defender](https://youtu.be/jm88ipgTCXM) | Recording of the Demo Live 5 |  
+| Demo 6 Recording           | - [Intune](https://youtu.be/5lKaMcJqoWU) | Recording of the Demo Live 6 |  
+| Demo 7 Recording           | - [Plugins](https://youtu.be/tcHuNTKJ6so) | Recording of the Demo Live 7 |  
 
 ## Get Started
 
