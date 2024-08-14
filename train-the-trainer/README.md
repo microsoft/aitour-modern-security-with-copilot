@@ -15,7 +15,7 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](Presentations/Readme.md) | Slides |
+| PowerPoint        | - [Presentation](Presentations/) | Slides |
 | PPT Recording     | - [Presentation](https://youtu.be/ig_YGfNkDDM) | Video/Audio Recording of the PowerPoint slides |
 | Demo 1             | - [Demo 1 - Using CfS TI for Hunting](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/Hunting.md) | Demo Prompt | 
 | Demo 2             | - [Demo 2 - Dissecting scripts/files](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/Dissecting_Scripts.md) | Demo Prompt | 
