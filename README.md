@@ -26,7 +26,9 @@ TODO: If you would like to link the user to further learning, please enter that 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Docs  | [Docs](https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot) | Learn more about Copilot for Security |
-| Community  | [Community](https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot) | Join the community |
+| Community  | [Community](https://www.linkedin.com/groups/14345161/) | Join the community |
+| Prompt Library  | [Prompts](https://aka.ms/CfSPromptLibrary) | Get Ideas for Security Prompts |
+| Blog  | [News and Content](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog) | Keep current on the latest CfS updates |
 
 ## Content Owners
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
