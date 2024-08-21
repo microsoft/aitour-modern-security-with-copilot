@@ -25,8 +25,8 @@ TODO: If you would like to link the user to further learning, please enter that 
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| Docs  | [Docs](https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot) | Learn more about Copilot for Security |
+| Community  | [Community](https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot) | Join the community |
 
 ## Content Owners
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
