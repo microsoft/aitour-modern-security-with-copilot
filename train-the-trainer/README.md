@@ -17,13 +17,13 @@ code.
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | - [Presentation](https://aka.ms/AArsvk9) | Slides |
 | PPT Recording     | - [Presentation](https://aka.ms/AArsvka) | Video/Audio Recording of the PowerPoint slides |
-| Demo 1             | - [Demo 1 - Using CfS TI for Hunting](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/Hunting.md) | Demo Prompt | 
-| Demo 2             | - [Demo 2 - Dissecting scripts/files](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/Dissecting_Scripts.md) | Demo Prompt | 
+| Demo 1             | - [Demo 1 - Using CfS TI for Hunting](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/Hunting.md) | Demo Prompt Content | 
+| Demo 2             | - [Demo 2 - Dissecting scripts/files](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/Dissecting_Scripts.md) | Demo Prompt Content  | 
 | Demo 3             | - [Demo 3 - Generating KQL](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/Generate_KQL.md) | Demo Prompt Content | 
-| Demo 4             | - [Demo 4 - Using external sources for intelligence](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/External_Sources.md) | Demo Prompt | 
-| Demo 5             | - [Demo 5 - Defender – auto response](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Demo Prompt | 
-| Demo 6             | - [Demo 6 - Intune – assisted response](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Demo Prompt | 
-| Demo 7             | - [Demo 7 - Installing, Enabling, and Using plugins](https://github.com/microsoft/aitour-modern-security-with-copilot/tree/main/Demos/Plugins/IP-API) | Demo Prompt | 
+| Demo 4             | - [Demo 4 - Using external sources for intelligence](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/Demos/Prompts/External_Sources.md) | Demo Prompt Content  | 
+| Demo 5             | - [Demo 5 - Defender – auto response](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Demo Prompt Content  | 
+| Demo 6             | - [Demo 6 - Intune – assisted response](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Demo Prompt Content  | 
+| Demo 7             | - [Demo 7 - Installing, Enabling, and Using plugins](https://github.com/microsoft/aitour-modern-security-with-copilot/tree/main/Demos/Plugins/IP-API) | Demo Prompt Content  | 
 | Demo 1 Recording           | - [CfS TI for Hunting](https://aka.ms/AArtmy6) | Recording of the Demo Live 1 | 
 | Demo 2 Recording           | - [Dissecting Scripts](https://aka.ms/AArtmy7) | Recording of the Demo Live 2 |  
 | Demo 3 Recording           | - [Generating KQL](https://aka.ms/AArtmy9) | Recording of the Demo Live 3 |  
