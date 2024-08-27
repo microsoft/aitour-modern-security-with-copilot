@@ -21,7 +21,7 @@ Discover how Copilot for Security modernizes security operations and defense int
 * KQL
 
 ## Additional Resources and Continued Learning
-TODO: If you would like to link the user to further learning, please enter that here.
+
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
