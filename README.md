@@ -1,4 +1,5 @@
 # BRK423 - Forging Modern Security with Copilot for Security
+If you will be delivering this session, consult the [session-delivery-resources](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/session-delivery-resources/) page for slides, demo scripts, and other resources.
 
 ## Session Desciption
 
