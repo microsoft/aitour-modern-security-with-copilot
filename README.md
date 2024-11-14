@@ -1,21 +1,21 @@
-# BRK423 - Forging Modern Security with Copilot for Security
+# BRK423 - Forging Modern Security with Security Copilot
 If you will be delivering this session, consult the [session-delivery-resources](https://github.com/microsoft/aitour-modern-security-with-copilot/blob/main/session-delivery-resources/) page for slides, demo scripts, and other resources.
 
 ## Session Desciption
 
-Discover how Copilot for Security modernizes security operations and defense intelligence through Generative AI and Microsoft’s Threat Intelligence. A fusion of innovation, vigilance, and adaptability where efficiency and excellence converge.
+Discover how Security Copilot modernizes security operations and defense intelligence through Generative AI and Microsoft’s Threat Intelligence. A fusion of innovation, vigilance, and adaptability where efficiency and excellence converge.
 
 ## Learning Outcomes
 
-* Learn how Copilot for Security can help streamline security workflows and processes, making them more efficient and effective.
-* Discover how Copilot for Security can enhance security visibility and situational awareness, providing better insights into potential threats.
-* See how Copilot for Security can improve security decision making and response time, enabling quicker and more accurate responses to threats.
-* Learn how Copilot for Security can integrate with existing security tools and data sources, providing a seamless and comprehensive security solution.
-* Understand how organizations can leverage Copilot for Security to resolve security knowledge gaps.
+* Learn how Security Copilot can help streamline security workflows and processes, making them more efficient and effective.
+* Discover how Security Copilot can enhance security visibility and situational awareness, providing better insights into potential threats.
+* See how Security Copilot can improve security decision making and response time, enabling quicker and more accurate responses to threats.
+* Learn how Security Copilot can integrate with existing security tools and data sources, providing a seamless and comprehensive security solution.
+* Understand how organizations can leverage Security Copilot to resolve security knowledge gaps.
 
 ## Technology Used
 
-* Microsoft Copilot for Security
+* Microsoft Security Copilot
 * Microosft Defender Threat Intelligence
 * Microsoft Defender XDR
 * Microsoft Intune
@@ -26,10 +26,10 @@ Discover how Copilot for Security modernizes security operations and defense int
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Docs  | [Docs](https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot) | Learn more about Copilot for Security |
+| Docs  | [Docs](https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot) | Learn more about Security Copilot |
 | Community  | [Community](https://www.linkedin.com/groups/14345161/) | Join the community |
 | Prompt Library  | [Prompts](https://aka.ms/CfSPromptLibrary) | Get Ideas for Security Prompts |
-| Blog  | [News and Content](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog) | Keep current on the latest CfS updates |
+| Blog  | [News and Content](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog) | Keep current on the latest Security Copilot updates |
 
 ## Content Owners
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
